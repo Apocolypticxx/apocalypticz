@@ -38,24 +38,24 @@ const mobileAndTabletCheck = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IE
 $(document).ready(() => {
   const links = [
     {
-      name: 'Lummit',
-      link: '76561197960276740',
+      name: 'kx',
+      link: '571014782728011787',
     },
     {
-      name: 'Neso',
-      link: '76561198193201687',
+      name: 'kx',
+      link: '571014782728011787',
     },
     {
-      name: 'loljuxd',
-      link: '76561198016198032',
+      name: 'kx',
+      link: '571014782728011787',
     },
     {
-      name: 'Lost',
-      link: '76561199079530557',
+      name: 'kx',
+      link: '571014782728011787',
     },
     {
-      name: 'mannin',
-      link: '76561197975672336',
+      name: 'kx',
+      link: '571014782728011787',
     },
   ];
 
@@ -75,7 +75,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['Lummit', 'Neso', 'loljuxd', 'Vez', 'mannin', '=', 'obnoxious.club', 'Song name: KUSO GVKI - Cinnamon (feat. Apfel) (splash! Mag Premiere)']);
+  app.titleChanger(['WE', 'ARE', 'APOCALYPTIC', 'THE NEW', 'BEGINNING', '=', '', 'Song name: KUSO GVKI - Cinnamon (feat. Apfel) (splash! Mag Premiere)']);
   app.iconChanger(['assets/icons/roses/rose1.jpg', 'assets/icons/roses/rose2.jpg', 'assets/icons/roses/rose3.jpg', 'assets/icons/roses/rose4.jpg', 'assets/icons/roses/rose5.jpg', 'assets/icons/roses/rose6.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg', 'assets/icons/roses/rose1.jpg']);
 });
 
