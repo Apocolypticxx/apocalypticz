@@ -39,23 +39,23 @@ $(document).ready(() => {
   const links = [
     {
       name: 'kx',
-      link: '571014782728011787',
+      link: 'APOCALYPTICx',
     },
     {
       name: 'kx',
-      link: '571014782728011787',
+      link: 'APOCALYPTICx',
     },
     {
       name: 'kx',
-      link: '571014782728011787',
+      link: 'APOCALYPTICx',
     },
     {
       name: 'kx',
-      link: '571014782728011787',
+      link: 'APOCALYPTICx',
     },
     {
       name: 'kx',
-      link: '571014782728011787',
+      link: 'APOCALYPTICx',
     },
   ];
 
