@@ -1,6 +1,4 @@
-// Made by Lummit - https://obnoxious.club/ | https://github.com/Lumm1t/ | Discord: Lummit#0201
-// Credits to expl0it, shellcode.team
-// GitHub: https://github.com/Lumm1t/obnoxious.club
+
 
 class _app {
   id = 0;
@@ -12,7 +10,7 @@ class _app {
   backgroundToggler = false;
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello'];
-  brandDescription = ['11 years old kids team', 'pro roblox players', 'xane ddosers', 'trashtalkers', 'esoterik fanboys', 'hack vs hack team'];
+  brandDescription = ['We Are Apocalyptic', '.gg/kVEPnvffJB', 'omniscient', '.gg/kVEPnvffJB', 'omnipotent', '.gg/kVEPnvffJB'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
